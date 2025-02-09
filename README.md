@@ -1,4 +1,4 @@
-<h2 align="left"> 👋 MI NOMBRE ES NORMA GARCÍA ROMERO </h2>
+<h2 align="left">  NORMA GARCÍA ROMERO </h2>
 
 ###
 
